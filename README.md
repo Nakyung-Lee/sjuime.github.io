@@ -1,6 +1,6 @@
 # sjuime.github.io
 
-sejonguniversity Artificial Intelligence Mechanical Electronics
+Sejong University Artificial Intelligence Mechanical Electronics
 
 지능기전공학부+학교 소개
 
